@@ -16,8 +16,8 @@ The dataset contains (15x100) binary matrix, made by flattening (10x10) alphabet
 
 #### Generating the dataset
 Generating the dataset for any three alphabets:
-```
 [create_dataset.py](create_dataset.py)
+```
 images, targets = generate(folderpath)
 ```
 images is (numofimages x 100) matrix
