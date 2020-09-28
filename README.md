@@ -66,9 +66,9 @@ output=run_model(modelnumber, weights, bias, input)
 ```
 The output generated and corresponding image_name is printed as output.
 
-A=[1,0,0]
-O=[0,0,1]
-T=[0,1,0]
+A=[1,0,0]  
+O=[0,0,1]  
+T=[0,1,0]  
 These are the ideal values for images of alphabets A, T, O.
 
 ### Example outputs
@@ -94,7 +94,7 @@ These are the ideal values for images of alphabets A, T, O.
 ## Built With
 
 * [OpenCV](https://opencv.org/) - Image operations.
-* [Maven](https://numpy.org/) - Matrix operations.
+* [NumPy](https://numpy.org/) - Matrix operations.
 
 ## Authors
 
