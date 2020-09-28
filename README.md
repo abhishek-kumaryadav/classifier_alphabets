@@ -4,7 +4,7 @@ Image classifier for three alphabets(A,T,O), using multilayer perceptron model.
 
 ## Getting Started
 
-## Prerequisites
+#### Prerequisites
 
 OpenCV is required to generate inpute vectors for training and testing. *How to install-*
 ```
